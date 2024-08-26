@@ -1,0 +1,25 @@
+{
+  "name": "halfwidth-to-fullwidth",
+  "version": "1.0.0",
+  "description": "Convert halfwidth to fullwidth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinhpham22/haflwidth-to-fullwidth.git"
+  },
+  "keywords": [
+    "Convert",
+    "halfwidth",
+    "to",
+    "fullwidth"
+  ],
+  "author": "tinhpv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinhpham22/haflwidth-to-fullwidth/issues"
+  },
+  "homepage": "https://github.com/tinhpham22/haflwidth-to-fullwidth#readme"
+}

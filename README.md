@@ -1,0 +1,1 @@
+const fullwidth = convertToFullWidth(halfwidth)
